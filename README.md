@@ -1,2 +1,0 @@
-# ossoballi
-Seda Balli Project
